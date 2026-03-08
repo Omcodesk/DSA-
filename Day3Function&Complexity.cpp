@@ -31,3 +31,27 @@ int n = 5;
 So the program will store 5 numbers.
 
 int arr[n];*/
+/*
+Step 2 — User Enters Numbers
+
+Suppose the user types:
+
+5 10 7 12 13
+Step 3 — Function Call
+doSomething(arr, n);
+Step 4 — Inside the Function
+arr[0] += 100;
+
+This means:
+
+arr[0] = arr[0] + 100
+
+Before:
+
+arr[0] = 5
+
+After:
+
+arr[0] = 105
+Value inside function: 105
+Value inside int main: 105*/
