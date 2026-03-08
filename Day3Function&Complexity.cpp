@@ -88,3 +88,15 @@ n + n = 2n
 Ignore constants:
 
 O(n)*/
+/*
+3️⃣ Single Loop
+
+Example:
+
+for(int i = 0; i < n; i++)
+
+Runs n times.
+
+Time Complexity:
+
+O(n)*/
