@@ -74,3 +74,17 @@ n * n = n²
 Time Complexity:
 
 O(n²)*/
+/*
+two separate loops
+for(int i = 0; i < n; i++)
+    cout << i;
+
+for(int j = 0; j < n; j++)
+    cout << j;
+    Operations:
+
+n + n = 2n
+
+Ignore constants:
+
+O(n)*/
