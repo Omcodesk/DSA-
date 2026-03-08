@@ -55,3 +55,22 @@ After:
 arr[0] = 105
 Value inside function: 105
 Value inside int main: 105*/
+
+/*
+nested loops and its complexity
+for(int i = 0; i < n; i++)
+{
+    for(int j = 0; j < n; j++)
+    {
+        cout << i << j;
+    }
+}
+    Outer loop → n
+Inner loop → n
+Total:
+
+n * n = n²
+
+Time Complexity:
+
+O(n²)*/
